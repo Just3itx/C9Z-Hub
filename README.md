@@ -1,5 +1,5 @@
 # C9Z-Hub
-![image](https://user-images.githubusercontent.com/106456879/212770278-d3161a4d-b6a5-47e8-b2a9-036c81f11f6c.png)
+![anime-girl](https://user-images.githubusercontent.com/106456879/212770593-102a70df-daaf-46fe-8bc1-8d6934158ff7.gif)
 
 
 
