@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Jxereas/UI-Libraries/main/cerberus.lua"))()
 local NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/lobox920/Notification-Library/main/Library.lua"))()
-NotificationLibrary:SendNotification("Success", "Injected C9Z Hub || Have Fun🌟", 3)
+NotificationLibrary:SendNotification("Success", "Injected C9Z Hub || Have Fun🌟 || Made By 3itx#0001", 3)
 local window = Library.new("C9Z || Hub")
 window:LockScreenBoundaries(false)
 local tab = window:Tab("Main")
