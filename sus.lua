@@ -23,7 +23,6 @@ end
 dvd_logo.Name = "dvd_logo"
 dvd_logo.Parent = savingFrame
 dvd_logo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-dvd_logo.BackgroundTransparency = 1.000
 dvd_logo.Position = UDim2.new(0.5, -50, 0.5, -50)
 dvd_logo.Size = UDim2.new(0, 100, 0, 100)
 dvd_logo.Image = "https://create.roblox.com/marketplace/asset/11215017035/Anime-pink-aesthetic-pfp"
