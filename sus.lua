@@ -22,6 +22,8 @@ end
 
 dvd_logo.Name = "dvd_logo"
 dvd_logo.Parent = savingFrame
+dvd_logo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+dvd_logo.BackgroundTransparency = 1.000
 dvd_logo.Position = UDim2.new(0.5, -50, 0.5, -50)
 dvd_logo.Size = UDim2.new(0, 100, 0, 100)
 dvd_logo.Image = "http://www.roblox.com/asset/?id=11215017035"
@@ -32,7 +34,7 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.Position = UDim2.new(0.049999997, 0, 1, 0)
 TextLabel.Size = UDim2.new(0, 89, 0, 30)
 TextLabel.Font = Enum.Font.Michroma
-TextLabel.Text = "C9Z GPU Saver"
+TextLabel.Text = "Currently Saving GPU"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 20.000
