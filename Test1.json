@@ -7,132 +7,132 @@
 	}],
 	"theme_color_map": {
 		"HEADER_PRIMARY": [
-			"#edd49b",
-			"#edd49b"
+			"#6699cc",
+			"#6699cc"
 		],
 		"HEADER_SECONDARY": [
-			"#d8c28f",
-			"#d8c28f"
+			"#6699cc",
+			"#6699cc"
 		],
 		"TEXT_NORMAL": [
-			"#c8c8c8",
-			"#c8c8c8"
+			"#6699cc",
+			"#6699cc"
 		],
 		"TEXT_MUTED": [
-			"#C8B68E",
-			"#C8B68E"
+			"#6699cc",
+			"#6699cc"
 		],
 		"INTERACTIVE_NORMAL": [
-			"#d8c28f",
-			"#d8c28f"
+			"#6699cc",
+			"#6699cc"
 		],
 		"INTERACTIVE_HOVER": [
-			"#d8c28f",
-			"#d8c28f"
+			"#6699cc",
+			"#6699cc"
 		],
 		"INTERACTIVE_ACTIVE": [
-			"#d8c28f",
-			"#d8c28f"
+			"#6699cc",
+			"#6699cc"
 		],
 		"INTERACTIVE_MUTED": [
-			"#C8B68E",
-			"#c9bbc8"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_PRIMARY": [
-			"#312844",
-			"#312844"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_SECONDARY": [
-			"#5A5172",
-			"#5A5172"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_SECONDARY_ALT": [
-			"#3e374f",
-			"#3e374f"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_TERTIARY": [
-			"#3e374f",
-			"#5d737e"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_ACCENT": [
-			"#69607F",
-			"#69607F"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_FLOATING": [
-			"#4d4463",
-			"#4d4463"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_MOBILE_PRIMARY": [
-			"#3e374f",
-			"#3e374f"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_MOBILE_SECONDARY": [
-			"#4d4463",
-			"#4d4463"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_NESTED_FLOATING": [
-			"#4d4463",
-			"#4d4463"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_MENTIONED": [
-			"#5A5172",
-			"#5A5172"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_MESSAGE_HOVER": [
-			"#1F1F2B",
-			"#1F1F2B"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_MODIFIER_HOVER": [
-			"#1a1926",
-			"#1a1926"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_MODIFIER_ACTIVE": [
-			"#1F1F2B",
-			"#1F1F2B"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_MODIFIER_SELECTED": [
-			"#3e374f",
-			"#3e374f"
+			"#6699cc",
+			"#6699cc"
 		],
 		"BACKGROUND_MODIFIER_ACCENT": [
 			"#transparent",
 			"#transparent"
 		],
 		"SCROLLBAR_THIN_THUMB": [
-			"#26273b",
-			"#26273b"
+			"#6699cc",
+			"#6699cc"
 		],
 		"SCROLLBAR_THIN_TRACK": [
 			"transparent",
 			"transparent"
 		],
 		"SCROLLBAR_AUTO_THUMB": [
-			"#26273b",
-			"#26273b"
+			"#6699cc",
+			"#6699cc"
 		],
 		"SCROLLBAR_AUTO_TRACK": [
-			"1a1926",
-			"1a1926"
+			"6699cc",
+			"6699cc"
 		],
 		"CHANNEL_TEXT_AREA_PLACEHOLDER": [
-			"#d8c28f",
-			"#d8c28f"
+			"#6699cc",
+			"#6699cc"
 		],
 		"CHANNELTEXTAREA_BACKGROUND": [
-			"#111111",
-			"#111111"
+			"#6699cc",
+			"#6699cc"
 		],
 		"CHANNELS_DEFAULT": [
-			"#7c6ea7",
-			"#7c6ea7"
+			"#6699cc",
+			"#6699cc"
 		],
 		"TEXT_LINK": [
 			"#a297c3",
 			"#a297c3"
 		],
 		"KEYBOARD": [
-			"#4d4463",
-			"#4d4463"
+			"#6699cc",
+			"#6699cc"
 		],
 		"CHANNEL_ICON": [
 			"#BFBFBF",
@@ -140,26 +140,26 @@
 		]
 	},
 	"colours": {
-		"PRIMARY_DARK": "#4d4463",
-		"PRIMARY_DARK_100": "#7c6ea7",
-		"PRIMARY_DARK_200": "#7c6ea7",
-		"PRIMARY_DARK_300": "#B6B6B6",
-		"PRIMARY_DARK_360": "#7c6ea7",
-		"PRIMARY_DARK_400": "#26273b",
-		"PRIMARY_DARK_500": "#010101",
-		"PRIMARY_DARK_600": "#4d4463",
-		"PRIMARY_DARK_630": "#4d4463",
-		"PRIMARY_DARK_700": "#4d4463",
-		"PRIMARY_DARK_800": "#4d4463",
-		"BRAND_NEW_260": "#a297c3",
-		"BRAND_NEW_500": "#625682",
-		"BRAND_NEW_900": "#7c6ea7",
-		"BRAND_NEW": "#a297c3",
-		"STATUS_YELLOW_300": "#5A5172",
-		"STATUS_GREEN_600": "#7c6ea7",
-		"STATUS_DANGER": "#625682",
-		"STATUS_RED_400": "#a297c3",
-		"STATUS_RED": "#a297c3"
+		"PRIMARY_DARK": "#6699cc",
+		"PRIMARY_DARK_100": "#6699cc",
+		"PRIMARY_DARK_200": "#6699cc",
+		"PRIMARY_DARK_300": "#6699cc",
+		"PRIMARY_DARK_360": "#6699cc",
+		"PRIMARY_DARK_400": "#6699cc",
+		"PRIMARY_DARK_500": "#6699cc",
+		"PRIMARY_DARK_600": "#6699cc",
+		"PRIMARY_DARK_630": "#6699cc",
+		"PRIMARY_DARK_700": "#6699cc",
+		"PRIMARY_DARK_800": "#6699cc",
+		"BRAND_NEW_260": "#6699cc",
+		"BRAND_NEW_500": "#6699cc",
+		"BRAND_NEW_900": "#6699cc",
+		"BRAND_NEW": "#6699cc",
+		"STATUS_YELLOW_300": "#6699cc",
+		"STATUS_GREEN_600": "#6699cc",
+		"STATUS_DANGER": "#6699cc",
+		"STATUS_RED_400": "#6699cc",
+		"STATUS_RED": "#6699cc"
 	},
 
 	"unsafe_colors": {
@@ -168,7 +168,7 @@
 
           "background": {
                "blur": 0.1,
-               "url": "https://cdn.discordapp.com/attachments/857863120970317867/1088830037706412073/IMG_4853.jpg",
+               "url": "https://cdn.discordapp.com/attachments/840392188978528266/1089036561515024415/image0.png",
                "alpha": 1.0
         },
             "color": "#fdc0d2"
